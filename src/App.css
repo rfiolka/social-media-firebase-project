@@ -38,14 +38,30 @@ body {
 }
 
 .user p {
-  font-size: 15px;
+  font-size: 17px;
   margin-right: 10px;
   color: white;
 }
 .user img {
-  font-size: 15px;
+  font-size: 17px;
   border-radius: 50%;
 }
+
+.btn{
+  background-color: rgb(246, 226, 255);
+  margin: 8px;
+  border-radius: 8px;
+  padding: 0.25em 0.75em;
+  transition: 220ms all ease-in-out;
+  cursor: pointer;
+
+}
+
+.btn:hover{
+  background-color: rgb(214, 79, 79);
+
+}
+
 
 input,
 textarea {
@@ -81,6 +97,42 @@ textarea {
   z-index: 1;
 }
 
+
+.sign-in-text{
+  font-size: 2rem;
+}
+
+
+.btn-google{
+  color: white;
+  font-size: 1.5rem;
+  background-color: rgb(56, 89, 197);
+  border-radius: 8px;
+  padding: 0.45em 0.95em;
+  cursor: pointer;
+}
 .submitForm:hover {
   cursor: pointer;
+}
+
+.title{
+  margin: 17px;
+font-size: 2rem;
+font-weight: bold;
+
+}
+
+.body{
+  border:1px solid #999999;
+  color:#6f6f6f;
+  font-size:1.5rem;
+  display:block;
+  float:left;
+  width:94%;
+  height:130px;
+  display: block; 
+  position: relative;
+  overflow:auto;
+  margin: 4px;
+  padding: 5px;
 }
