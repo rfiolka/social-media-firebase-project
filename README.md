@@ -8,7 +8,7 @@ Simple social media app that allows logged in user to add posts. CRUD was achiev
 * Create and submit post that has Title and Description
 * Only logged in users can view posts
 * Logged in users can like or dislike a post
-* Username is displayed next to a its post
+* Username is displayed next to its post
 
 # Visuals
 
