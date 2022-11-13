@@ -1,3 +1,33 @@
+# Social media firebase project
+Simple social media app that allows logged in user to add posts. CRUD was achieved using Firebase.
+
+
+# Features
+* Sign in using Google account
+* Log out
+* Create and submit post that has Title and Description
+* Only logged in users can view posts
+* Logged in users can like or dislike a post
+* Username is displayed next to a its post
+
+# Visuals
+
+### Sign in page
+
+![f1](https://user-images.githubusercontent.com/105199716/201538447-cc1c1f93-5f49-4d2c-9a81-406b773dba8d.png)
+
+
+### Create post
+
+![f3](https://user-images.githubusercontent.com/105199716/201538483-d051b591-571d-4cd4-891c-c9ed24c24c64.png)
+
+### Main page
+
+![f2](https://user-images.githubusercontent.com/105199716/201538496-206c548a-d268-43ea-a96c-dfc66eb96adc.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
